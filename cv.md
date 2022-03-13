@@ -3,6 +3,7 @@
 #### My contacts
 - **Phone:** +48 724 069 365
 - **E-male:** annazhechka@gmail.com
+- **GitHub:** HannaZhechka
 #### Summary
 My goal is to study the front-end development, develop my skills in this direction as best as possible and realize myself as a good specialist. I really like to learn something new and I like to work in a team. I am purposeful, responsible, sociable and always ready to help.
 #### Skills
