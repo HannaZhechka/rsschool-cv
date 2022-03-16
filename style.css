@@ -1,39 +1,36 @@
 img {
-    display: block; 
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .title {
-    text-align: center;
+  text-align: center;
 }
 
-.italic{
-    font-style: italic;
+.italic {
+  font-style: italic;
 }
 
-.code{
-    width: 300px;
-    height: 60px;
-    background-color:beige;
-    padding: 20px;
+.code {
+  width: 300px;
+  height: 50px;
+  background-color: beige;
+  padding: 20px;
 }
 
-.text{
-    color:red;
+.text {
+  color: red;
 }
 
-.text2{
-    color:blue;
+.text2 {
+  color: blue;
 }
 
-.footer-segment{
-    display: flex;
-    justify-content: center;
-    height: 60px;
-    background-color:darkseagreen;
-    padding: 0 30px;
+.footer-segment {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  background-color: darkseagreen;
+  padding: 0 30px;
 }
-
-  
-  
